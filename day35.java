@@ -21,6 +21,4 @@ public class day35 {
         else System.out.println("NO");
     }
 }
- {
-    
-}
+ 
